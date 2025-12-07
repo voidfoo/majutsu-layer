@@ -1,0 +1,5 @@
+#+TITLE: Majutsu contribution layer for Spacemacs
+
+* Description
+
+This layer integrates [[https://github.com/0WD0/majutsu][Majutsu]] into Spacemacs.
